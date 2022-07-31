@@ -6,6 +6,8 @@ Notes and slides on Stanford CS231n 2021 & 2022 in English. I merged two years' 
 
 斯坦福cs231n的课程笔记(英文版本，不含实验代码)，将2021与2022两年的课程进行了合并，分享以供交流。
 
+## Arrangement
+
 2022 Course Website: [Stanford University CS231n: Deep Learning for Computer Vision](http://cs231n.stanford.edu/schedule.html)
 
 2021 Course Website: [Stanford University CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/2021/schedule.html)
