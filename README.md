@@ -12,7 +12,7 @@ Notes and slides for Stanford CS231n 2021 & 2022 in English. I merged the conten
 
 2021 Course Website: [Stanford University CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/2021/schedule.html)
 
-2021 Video (Chinese): [cs231n(2021) Lecture 1a_bilibili](https://www.bilibili.com/video/BV1yX4y1w79F)
+2021 Videos (Chinese): [cs231n(2021) Lecture 1a_bilibili](https://www.bilibili.com/video/BV1yX4y1w79F)
 
 Chapter 1-5 arranged according to 2021 course, referencing 2022 course.
 
